@@ -5,5 +5,9 @@ This bot is not hosted in the cloud and don't run 24/7. That's why it needs the 
 
 To roll a group of n dices :
 `!Gn`
+
 To roll x times a group of n dices :
 `!Gn,x`.
+
+This bot is merely a version of the basic example of discord.py basic example :
+[here](https://discordpy.readthedocs.io/en/latest/quickstart.html#a-minimal-bot).
