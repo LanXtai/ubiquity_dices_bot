@@ -70,4 +70,4 @@ async def on_message(message):
 		    		e.remove_field(-1)
 
 
-client.run('NzY1MzIyMjUwMjYxNjI2OTMw.X4TH4w.37cCduOUtFtGUG2Rar8-LFPI1DY')
+client.run('token')
